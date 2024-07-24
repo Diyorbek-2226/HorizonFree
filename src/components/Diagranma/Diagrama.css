@@ -3,13 +3,30 @@
     height: 400px;
 }
 .col-6{
-    width: 700px;
-    height: 370px;
+    width: 600px;
+    height: 350px;
     border: solid red;
     border-radius: 25px;
-    padding: 20px 40px;
+    padding: 20px 15px;
     background-color: 
     #FFFFFF;
     border: none;
     
+}
+.col-1{
+    width: 600px;
+    height: 350px;
+    border: solid red;
+    border-radius: 25px;
+    border: none;
+    justify-content: space-between;
+}
+.diagrama_list {
+    width: 380px ;
+    height: 350px ;
+    border: solid red;
+    padding: 15px 15px;
+    border-radius: 20px;
+    background-color:    #FFFFFF;
+    border: none;
 }
