@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.lists{
+    padding: 40px 30px;
+}
+.list_item{
+    color: rgb(87, 83, 83);
+    border: solid red;
+    padding: 10px 20px;
+    border: none;
+}
+.list_item:hover{
+    border: solid red;
+    padding: 10px 20px;
+    border-radius: 12px;
+    box-shadow: 10px 5px 5px black;
+    border: none;
+    color: black;
+}
+.Saidbar{
+    background-color: #FFFFFF;
+    padding: 20px 0px;
+} 

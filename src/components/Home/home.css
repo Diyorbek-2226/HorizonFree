@@ -1,0 +1,33 @@
+.inputElement{
+    width: 220px;
+    height: 40px;
+    border-radius: 40px;
+    text-align: center;
+    border: none;
+    background-color: #F4F7FE;
+}
+.col1{
+    width: 422px;
+    height: 62px;
+    border:solid red;
+    border-radius: 30px;
+    padding: 15px 15px;
+    background-color: #FFFFFF;
+    border: none;
+
+}
+.home{
+    padding: 20px 20px;
+}
+.col-2{
+width: 250px;
+height: 100px;
+border: solid red;
+padding: 20px 20px;
+border-radius: 20px;
+border: none;
+background-color: #FFFFFF;
+}
+.home{
+    height: 200vh;
+}
